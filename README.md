@@ -1,4 +1,4 @@
-# ✨ important-paprika ✨
+# ✨The Profit School ✨
 
 <img src="https://themes.stackbit.com/images/fresh-demo-1024x768.png" width="600">
 
