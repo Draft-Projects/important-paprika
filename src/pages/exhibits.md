@@ -1,5 +1,5 @@
 ---
-title: Exhibits (State)
+title: State's Exhibits
 subtitle: "DR-15\_ Entered into record at Trial State Exhibit-1, MVA Exhibit 2-9"
 template: page
 img_path: images/DR-15_Altered_by_State-.jpg
