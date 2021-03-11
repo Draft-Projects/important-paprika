@@ -10,5 +10,3 @@ img_path: images/DR-15_Altered_by_State-.jpg
 *   Docs were stamped received June 6. 2020.
 
 Defendant took a snapshot on his phone of the DR-15 as soon as he received uit. Defendants phone is setup to immediately to store photos and sync with Google Cloud.  Time stamp of photo  June 1, 2019  3:13 AM.
-
-[https://nimb.ws/asBmZ9![](https://nimb.ws/asBmZ9)](https://nimb.ws/asBmZ9)
