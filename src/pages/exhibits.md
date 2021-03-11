@@ -1,6 +1,6 @@
 ---
 title: Exhibits
-subtitle: DR-15 (Altered by State after copy given defendant
+subtitle: State Exhibit-1 - DR-15
 excerpt: lorem-ipsum
 template: page
 img_path: images/DR-15_Altered_by_State-.jpg
