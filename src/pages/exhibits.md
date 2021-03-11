@@ -2,7 +2,7 @@
 title: Exhibits (State)
 subtitle: "DR-15\_ Entered into record at Trial State Exhibit-1, MVA Exhibit 2-9"
 template: page
-img_path: images/DR-15_snapshot_taken_3_13_AM_2019_June_1Full.png
+img_path: images/DR-15_Altered_by_State-.jpg
 ---
 ### The altered DR-15 above was entered by State twice withgout objection
 
