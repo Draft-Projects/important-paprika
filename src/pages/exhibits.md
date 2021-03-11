@@ -4,9 +4,12 @@ subtitle: DR-15 (Altered by State after copy given defendant
 excerpt: lorem-ipsum
 template: page
 ---
-## Lorem ipsum
+### Trial Exhibit 1  and OAH Exhibit 2-9   
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The altered DR-15 marked figure1  was entered by State at trial and MVA hearing without objection from Defense.  
 
-- Lorem ipsum
-- dolor sit amet
+
+
+*   The form was altered sometime between 3:13AM June 1 and when documents were mailed to the MVA offices. 
+
+*   The MVA stamped receiving documents from Officer June 6 2020. 
