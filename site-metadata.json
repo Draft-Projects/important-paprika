@@ -18,7 +18,7 @@
                 "label": "Exhibits  (DEFENSE) ",
                 "url": "/exhibits/defense",
                 "style": "link",
-                "new_window": true
+                "new_window": false
             },
             {
                 "label": "Facts ",
