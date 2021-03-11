@@ -1,10 +1,10 @@
 {
-    "description": "Personal blogging theme for Stackbit",
+    "description": "Motion for New Trial Case Summary",
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
+        "title": "Motion for New Trial Case Summary",
+        "tagline": "  Byron Horn V State of MD. ",
         "profile_img": "images/avatar.png",
         "background": "dark",
         "has_nav": true,
@@ -15,13 +15,14 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
+                "label": "Exhibits ",
+                "url": "/exhibits/",
+                "style": "link",
+                "new_window": true
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
+                "label": "Facts ",
+                "url": "/case-facts/",
                 "style": "link"
             },
             {
@@ -33,9 +34,17 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "icon_class": "lorem-ipsum",
+                "new_window": false,
+                "type": "action"
             }
         ],
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",
@@ -75,7 +84,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=fresh\" target=\"_blank\" rel=\"noopener\">here</a>."
+        "content": "&copy; 1440i & Co. All rights reserved. "
     },
-    "title": "Stackbit Fresh Theme"
+    "title": "Motion for New Trial Case Summary"
 }
