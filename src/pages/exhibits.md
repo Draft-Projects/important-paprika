@@ -1,6 +1,6 @@
 ---
 title: Exhibits
-subtitle: State Exhibit-1 - DR-15
+subtitle: State Exhibit-1 (DR-15)
 excerpt: lorem-ipsum
 template: page
 img_path: images/DR-15_Altered_by_State-.jpg
