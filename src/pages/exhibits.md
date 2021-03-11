@@ -1,6 +1,6 @@
 ---
 title: Exhibits
-subtitle: DR-15
+subtitle: DR-15 (Altered by State after copy given defendant
 excerpt: lorem-ipsum
 template: page
 ---
