@@ -1,6 +1,6 @@
 ---
 title: Exhibits
-subtitle: lorem-ipsum
+subtitle: DR
 excerpt: lorem-ipsum
 template: page
 ---
