@@ -17,7 +17,8 @@
             {
                 "label": "Exhibits ",
                 "url": "/exhibits/",
-                "style": "link"
+                "style": "link",
+                "new_window": true
             },
             {
                 "label": "Style Guide",
