@@ -3,6 +3,7 @@ title: Exhibits
 subtitle: DR-15 (Altered by State after copy given defendant
 excerpt: lorem-ipsum
 template: page
+img_path: images/DR-15_Altered_by_State-.jpg
 ---
 ### Trial Exhibit 1  and OAH Exhibit 2-9   
 
